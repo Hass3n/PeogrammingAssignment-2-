@@ -33,7 +33,7 @@ namespace PeogrammingAssignment_2_
             //Console.WriteLine("the value of x after Modify" + x);
             //Console.WriteLine("the value of y after modify " + y);
 
-           // X is not Upadte Beacause x = y it is copy value but not copy References
+            // X is not Upadte Beacause x = y it is copy value but not copy References
 
 
             #endregion
@@ -77,6 +77,7 @@ namespace PeogrammingAssignment_2_
             //Console.WriteLine("the value of (D2)" + D2.x);
             //Console.WriteLine("the value of (D2)" + D2.y);
 
+            //// D2 is changed after change D1 beacause D2 copy refernces of D1
             //// D2 is changed after change D1 beacause D2 copy refernces of D1
 
             #endregion
